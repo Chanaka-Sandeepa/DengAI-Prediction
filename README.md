@@ -14,5 +14,11 @@ Using environmental data collected by various U.S. Federal Government agenciesâ€
 - Gradient Boost Model
 - Ensemble of Random Forest and Gradient Boost Models
 
+## To run this notebook
+ 1. Clone the project and cd into directory
+ 2. jupyter notebook
+ 3. Run the LinearRegressorTest.ipynb
+ 4. Run the rollingWindowModel.ipynb
+
 ## Final Score
 Final MAE Score - 19.1899
