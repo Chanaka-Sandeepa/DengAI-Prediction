@@ -8,8 +8,11 @@ Dengue fever is a mosquito-borne disease that occurs in tropical and subtropical
 Using environmental data collected by various U.S. Federal Government agencies—from the Centers for Disease Control and Prevention to the National Oceanic and Atmospheric Administration in the U.S. Department of Commerce competitors are supposed to predict the number of dengue fever cases reported each week in San Juan, Puerto Rico and Iquitos, Perú based on environmental variables describing changes in temperature, precipitation, vegetation, and more.
 
 ## Models Used
-SVR Model
-Random Forest Model
-XGBoost Model
-Gradient Boost Model
-Ensemble of Random Forest and Gradient Boost Models
+- SVR Model
+- Random Forest Model
+- XGBoost Model
+- Gradient Boost Model
+- Ensemble of Random Forest and Gradient Boost Models
+
+## Models Used
+Final MAE - 19.1899
