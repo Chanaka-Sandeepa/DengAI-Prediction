@@ -16,9 +16,10 @@ Using environmental data collected by various U.S. Federal Government agenciesâ€
 
 ## To run this notebook
  1. Clone the project and cd into directory
- 2. jupyter notebook
+ 2. Open following files in Jupyter-notebook
  3. Run the LinearRegressorTest.ipynb
  4. Run the rollingWindowModel.ipynb
+ 5. SVR and XGBoost model implemetations - SVR_XGBoost_Models.ipynb
 
 ## Final Score
 Final MAE Score - 19.1899
