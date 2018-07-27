@@ -14,5 +14,5 @@ Using environmental data collected by various U.S. Federal Government agenciesâ€
 - Gradient Boost Model
 - Ensemble of Random Forest and Gradient Boost Models
 
-## Models Used
+## Final Score
 Final MAE - 19.1899
