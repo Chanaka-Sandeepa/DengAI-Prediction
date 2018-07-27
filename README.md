@@ -15,4 +15,4 @@ Using environmental data collected by various U.S. Federal Government agenciesâ€
 - Ensemble of Random Forest and Gradient Boost Models
 
 ## Final Score
-Final MAE - 19.1899
+Final MAE Score - 19.1899
